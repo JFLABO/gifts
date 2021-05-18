@@ -1,7 +1,7 @@
 # coding: cp932
 #ファイルの一覧を解析するアプリケーション
 #base64でエンコードして出力する。
-#出力：djindata.jsonはbase64エンコードされたJSONファイルである
+#出力：djin_reports.jsonはbase64エンコードされたJSONファイルである
 
 require 'json'
 require "base64"
