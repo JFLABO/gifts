@@ -7,3 +7,5 @@ time cleaved system(TCS)を発明
 自動でJSONを生成するロジックを加えてもいいですね。
 
 アジャイル開発の伝言板向けに開発しました。
+
+http://rb.tabirepo.online/archives/899
