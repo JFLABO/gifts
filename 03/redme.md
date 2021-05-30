@@ -19,3 +19,5 @@ http://rb.tabirepo.online/archives/899
 その基本設計をやってみた最新版です。
 
 タイムスタンプはF5で記録できます。
+
+data/test.txtのデータを書き換えてください。
